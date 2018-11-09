@@ -1,0 +1,1 @@
+Résolution de Sudokus.
